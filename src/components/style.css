@@ -37,7 +37,7 @@
   }
   
   @media (max-width:772px){
-      .iteamsdetails{
+      .itemsdetails{
           flex-direction: column;
           align-items: center;
           justify-content: center;
